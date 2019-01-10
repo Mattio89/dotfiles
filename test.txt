@@ -1,2 +1,3 @@
 still figuring out push vs commit
 
+Okay, since this has been added it will be tracked?
